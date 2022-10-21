@@ -1,6 +1,6 @@
 # 2210-Axionable-IAResponsable
 
-L'équipe d'Axionable nous a partagé un retour d'expériences croisées sur la certification "processus IA" obtenue en novembre 2021 du LNE (laboratoire national de métrologie et d'essais) et de la labellisation "IA responsable et de confiance" niveau avancé de Labelia obtenu en janvier 2022. 
+L'équipe d'Axionable a partagé un retour d'expériences croisées sur la certification "processus IA" obtenue en novembre 2021 du LNE (laboratoire national de métrologie et d'essais) et de la labellisation "IA responsable et de confiance" niveau avancé de Labelia obtenu en janvier 2022. 
 
 Les thèmes ayant été abordés sont les suivants :
 - pourquoi se lancer dans une démarche de certification IA ou de labellisation? 
