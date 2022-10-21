@@ -9,5 +9,5 @@ Les thèmes ayant été abordés sont les suivants :
 - quels impacts sur l'organisation de l'IA au sein de l'entreprise, en termes de gouvernance, de processus IA ou de plateforme data /IA ? comment s'y préparer ?
 - quel investissement ? pour quel ROI ?
 
-Lien vers la vidéo Youtube : https://youtu.be/eUINukiAqGM
+Lien vers la vidéo Youtube : https://youtu.be/eUINukiAqGM <\br>
 Lien vers le workshop : https://datacraft.paris/workshops/7631/
